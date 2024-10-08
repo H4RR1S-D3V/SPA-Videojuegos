@@ -1,0 +1,63 @@
+.loadingImg {
+    width: 100vx;
+    height: 100vh;
+}
+.loadingContainer {
+    width: 100vx;
+    height: 100vh;
+}
+.errorContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.filters {
+    margin: 5px;
+    padding: 20px;
+    background-color: aquamarine;
+}
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: #f9f9f9;
+    margin: 5px;
+    padding: 20px;
+}
+form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 5px;
+    padding: 20px;
+    background-color: rgba(0,0,0,0.2);
+}
+.error {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.defaultButton {
+    padding: 10px 20px;
+    margin: 5px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 8%;
+}
+.buttonLink {
+    text-align: center;
+}
+.button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 8%;
+}
+  
