@@ -61,7 +61,7 @@ Este proyecto es una **Single Page Application (SPA)** que permite buscar, filtr
 ### Configuración del Proyecto:
 1. Clonar este repositorio:
     ```bash
-    git clone https://github.com/tu-usuario/videogames.git
+    git clone https://github.com/H4RR1S-D3V/videogames.git
     ```
 
 2. Instalar las dependencias del servidor y cliente:
